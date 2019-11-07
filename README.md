@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo
+
+![](dad_jokes.gif)
 
 ## Available Scripts
 
